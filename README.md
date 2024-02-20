@@ -11,22 +11,22 @@ Installation:
 7.	The user will be returned to the main menu after each choice until they decide to QUIT.
 
 Basic User Cases:
-Option 1: Recommendation by Genre and Platform
-●	When prompted, user gives input of genre and platform
-●	You will then see a dataframe of recommendations
+Option 1: 
+1.	Recommendation by Genre and Platform
+2.	When prompted, user gives input of genre and platform
+3.	You will then see a dataframe of recommendations
 
 Option 2: Recommendation by Name
-●	When prompted you can input -1 for a full list of games
-●	You will be returned to the main menu and can rechoose 2
-●	When prompted input any name from the list
-●	You will see a list of game titles and descriptions as recommendations
+1.	When prompted you can input -1 for a full list of games
+2.	You will be returned to the main menu and can rechoose 2
+3.	When prompted input any name from the list
+4.	You will see a list of game titles and descriptions as recommendations
 
 Option 3: Recommendation by Rating
-●	When prompted input a number between 0 and 100
-●	You will see a dataframe of games with higher or equal ratings
+1.	When prompted input a number between 0 and 100
+2.	You will see a dataframe of games with higher or equal ratings
 
 Option 4: Review by Name
-●	When prompted input the name of a game
-●	You will see a dataframe with critic reviews of the game
+1.	When prompted input the name of a game
+2.	You will see a dataframe with critic reviews of the game
 
-![image](https://github.com/EMObj/CMU-Data-Focused-Python/assets/118782528/2311e68d-6b79-479c-b2bf-7ec627c3fce0)
